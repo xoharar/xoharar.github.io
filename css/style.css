@@ -1,8 +1,11 @@
 body{
 	background-color: #567843;
 	margin: 0;
+	font-family: sans-serif;
 }
 h1{
 	text-align: center;
 	padding-top: 20%;
+	color: #874321;
+	text-transform: uppercase;
 }
